@@ -15,4 +15,3 @@ int main() {
     findAverage(arr, 5, &avg);
     cout << "Average: " << avg << endl;
     return 0;
-}
